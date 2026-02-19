@@ -50,7 +50,7 @@ li:nth-child(even){
     color: #dc33dc;
 }
 
-main > img{
+main > img:first-of-type{
     width: 100%;
 }
 
